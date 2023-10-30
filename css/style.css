@@ -1,0 +1,18 @@
+:root {
+    --AzulEscuro: #0000FF;
+    --Dourado: #FFA500;
+    --VerdeEscuro: #008000;
+    --Roxo: #800080;
+    --Amarelo: #FFFF00;
+    --branco: #ffffff;
+    --preto: #000000;
+}
+
+p{
+    line-height: 1.1;
+}
+body{
+    background-color: #FFA500;
+}
+
+
